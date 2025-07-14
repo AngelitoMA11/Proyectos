@@ -1,0 +1,9 @@
+config
+geopandas
+pandas
+psycopg2
+pydeck
+requests
+shapely
+streamlit
+matplotlib
